@@ -34,6 +34,7 @@ No external libraries are required.
 
 ### Step 1: Clone the repository
 
+```bash
 Step 2: Run the script
 python quicksort_assignment.py
 
